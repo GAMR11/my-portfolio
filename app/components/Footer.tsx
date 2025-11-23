@@ -10,7 +10,7 @@ export default function Footer() {
             Enviar Mensaje
           </a>
           <div className="mt-8 text-gray-500 text-sm">
-            © {new Date().getFullYear()} Mi Portafolio.
+            © {new Date().getFullYear()} Mi Portafolio. Todos los derechos reservados.
           </div>
         </div>
       </footer>
